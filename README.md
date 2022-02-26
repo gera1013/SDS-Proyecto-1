@@ -4,7 +4,7 @@
 Implementación de modelos de machine learning para la detección de intrusiones de malware
 
 ### Artículo ###
-Para visualizar el artículo hacer clic [aquí](SDS_Proyecto_1)
+Para visualizar el artículo hacer clic [aquí](SDS_Proyecto_1.pdf)
 
 ### Notebook ###
 Para visualizar el notebook con el código hacer clic [aquí](analysis.ipynb)
